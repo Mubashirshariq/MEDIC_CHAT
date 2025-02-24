@@ -20,7 +20,7 @@ This repository contains a web application for Medical Q&A . The frontend is bui
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Mubashirshariq/Q-A_PDF_CHAT.git](https://github.com/Mubashirshariq/MEDIC_CHAT.git
+    git clone https://github.com/Mubashirshariq/MEDIC_CHAT.git
     ```
 
 2. Navigate to the `frontend` directory:
