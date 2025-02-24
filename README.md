@@ -71,5 +71,8 @@ Now create one more terminal to run the backend
     ```
 
 ## Usage
+<img width="1457" alt="Screenshot 2025-02-24 at 2 50 56 PM" src="https://github.com/user-attachments/assets/2eb2642a-dce6-4010-8520-b9a32d6259ca" />
+
+<img width="1446" alt="Screenshot 2025-02-24 at 2 51 09 PM" src="https://github.com/user-attachments/assets/c7d1879b-0221-4228-8193-107dc636185a" />
 
 Once both the frontend and backend servers are running, you can access the application by navigating to `http://localhost:5173` in your web browser.
