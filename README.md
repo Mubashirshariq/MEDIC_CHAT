@@ -104,7 +104,7 @@ Retrieve the most relevant medical information based on user queries.
 retriever = self.vectorstore.as_retriever(search_kwargs={"k": self.TOP_K_RESULTS})
 ```
 
-## 3. LLM Integration
+## 3.  LLM Integration
 ### Purpose:
 Generate human-like responses based on retrieved medical data.
 
@@ -122,8 +122,8 @@ llm = Ollama(model="llama3")
 response = self.conversation_chain({'query': question})
 ```
 
-## 4. References & Citations
-## Purpose:
+## 4.  References & Citations
+###  Purpose:
 Provide sources for medical responses to ensure credibility.
 
 ###  Steps:
@@ -149,7 +149,7 @@ citations = [
 ```
 
 ## 5. Disclaimers & Confidence Level
-## Purpose:
+### Purpose:
 Ensure users understand the system's limitations.
 
 ###  Steps:
