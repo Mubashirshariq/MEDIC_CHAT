@@ -1,6 +1,6 @@
-# Q&A with multiple pdfs
+# Medical Q&A
 
-This repository contains a web application for querying multiple pdfs. The frontend is built with React, and the backend is powered by FastAPI. 
+This repository contains a web application for Medical Q&A . The frontend is built with React, and the backend is powered by FastAPI. 
 
 
 ## Tech Stack
@@ -20,7 +20,7 @@ This repository contains a web application for querying multiple pdfs. The front
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Mubashirshariq/Q-A_PDF_CHAT.git
+    git clone https://github.com/Mubashirshariq/Q-A_PDF_CHAT.git](https://github.com/Mubashirshariq/MEDIC_CHAT.git
     ```
 
 2. Navigate to the `frontend` directory:
@@ -67,7 +67,7 @@ Now create one more terminal to run the backend
 
 6. Run the FastAPI server:
     ```sh
-    uvicorn main:app --reload
+     python -m app.main
     ```
 
 ## Usage
